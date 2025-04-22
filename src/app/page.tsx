@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-    <div></div>
+    <h1 className='text-2x1'>Dashboard</h1>
   );
 }
