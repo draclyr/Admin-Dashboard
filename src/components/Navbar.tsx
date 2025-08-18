@@ -23,7 +23,7 @@ const Navbar = () => {
             <DropdownMenu>
                 <DropdownMenuTrigger className='focus:outline-none'>
                     <Avatar>
-                        <AvatarImage className='rounded-full' src='https://github.com/shadcn.png' alt='@shadcn' width={40} />
+                        <AvatarImage className='rounded-full' src='https://avatars.githubusercontent.com/u/183423388?v=4' alt='@shadcn' width={40} />
                         <AvatarFallback className='text-black bg-slate-300'>DR</AvatarFallback>
                     </Avatar>
                 </DropdownMenuTrigger>
