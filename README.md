@@ -15,5 +15,4 @@ npm run dev
 
 <p>👁️This project is an administrative dashboard developed based on the NEXT.JS framework:</p>
 <img src="/img/pic.png">
-<br>
 <p>Finally, I would be delighted if you could rate the project❤️</p>
